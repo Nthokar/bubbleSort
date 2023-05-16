@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<experiment>
+    <stringMinLength>10</stringMinLength>
+    <stringMaxLength>30</stringMaxLength>
+    <arrayStartLength>10</arrayStartLength>
+    <arrayMaxLength>1000</arrayMaxLength>
+    <arrayLengthIncreaseStep>1</arrayLengthIncreaseStep>
+    <repeat>1</repeat>
+</experiment>
